@@ -1,0 +1,44 @@
+.tudo{
+    background-image: url('../img/fundo.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    position:relative;
+    overflow-y: hidden;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+.row{
+    padding-bottom: 30px;
+}
+
+.login{
+    background-color: #ffffff;
+    height: auto;
+    width: 300px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+body{
+    background-color: #1d2124;
+}
+
+.container{
+    padding-top: 50px;
+}
+
+.lista{
+    background-color: #ffffff;
+    position: relative;
+    top: 20px;
+    padding: 20px;
+    max-width: 5000px;
+}
+
